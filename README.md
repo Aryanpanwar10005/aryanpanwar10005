@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hi there, I'm Aryan Panwar 👋
 
-<!--
-**Aryanpanwar10005/aryanpanwar10005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student | Embedded Systems Enthusiast | Robotics Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech student at MIET Meerut, passionate about building innovative solutions in embedded systems, robotics, and automation. Currently exploring the intersection of hardware and software to create practical engineering applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+**Languages:**
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+**Hardware & Embedded:**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![8051](https://img.shields.io/badge/-8051%20Microcontroller-FF6F00?style=flat)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat&logo=labview&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+**Industrial Systems:**
+- DCS, PLC, SCADA
+- Process Instrumentation
+- Safety Instrumented Systems (SIS)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔋 Wireless EV Charging System
+Developed a wireless charging prototype using Inductive Power Transfer (IPT) technology
+- ⚡ Achieved **85% power transfer efficiency**
+- 🤖 Automated detection via IR sensors
+- 📊 Real-time monitoring with LCD display
+
+### 🦾 4-DOF Robotic Arm
+Designed and built a precision robotic arm with inverse kinematics
+- 🎯 **2mm positioning accuracy**
+- 📐 Implemented inverse kinematics algorithms
+- 🔧 Multi-servo coordinated control
+
+### 💡 Smart Staircase Lighting
+Motion-sensor based automated lighting system
+- 🌱 **45% energy consumption reduction**
+- 👁️ PIR sensor-based detection
+- ♻️ Sustainable automation solution
+
+### 🤖 Edge-Avoiding Robot
+Autonomous navigation robot with ultrasonic sensors
+- 📡 HC-SR04 sensor integration
+- 🎯 **40% improved detection accuracy**
+- 🧠 Real-time sensor fusion algorithms
+
+---
+
+## 💼 Experience
+
+**Instrumentation Intern** @ Indian Potash Limited  
+*Jun 2025 - Aug 2025*
+- Worked with RTD Pt100, pressure transmitters, and flowmeters
+- Calibration using HART communicators
+- Experience with Safety Instrumented Systems (SIS)
+
+---
+
+## 📊 GitHub Stats
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryanpanwar10005&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanpanwar10005&layout=compact&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced embedded systems design
+- IoT and wireless communication protocols
+- Industrial automation and control systems
+- Machine learning for embedded devices
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-panwar-b5322b269)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryanpanwar10005@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aryanpanwar10005)
+
+---
+
+## 🎯 Interests
+
+🔌 Embedded Systems | 🤖 Robotics | ⚙️ Automation | 📡 IoT | 🏭 Industrial Instrumentation
+
+---
+
+*"Building tomorrow's solutions with today's technology"*
