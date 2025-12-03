@@ -10,24 +10,20 @@ I'm a B.Tech student at MIET Meerut, passionate about building innovative soluti
 
 **Languages:**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-**Hardware & Embedded:**
+**Hardware & Platforms:**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![8051](https://img.shields.io/badge/-8051%20Microcontroller-FF6F00?style=flat)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
 
-**Tools & Platforms:**
+**Tools:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat&logo=labview&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 **Industrial Systems:**
-- DCS, PLC, SCADA
 - Process Instrumentation
 - Safety Instrumented Systems (SIS)
+- HART Communicators
 
 ---
 
@@ -79,10 +75,12 @@ Autonomous navigation robot with ultrasonic sensors
 
 ## 🌱 Currently Learning
 
-- Advanced embedded systems design
+- Embedded systems design and programming (Embedded C, C++)
+- MATLAB for signal processing
+- LabVIEW for instrumentation
 - IoT and wireless communication protocols
-- Industrial automation and control systems
-- Machine learning for embedded devices
+- Industrial automation systems (DCS, PLC, SCADA)
+- Circuit design and PCB development
 
 ---
 
