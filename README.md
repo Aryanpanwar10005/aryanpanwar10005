@@ -9,14 +9,17 @@ I'm a B.Tech student at MIET Meerut, passionate about building innovative soluti
 ## 🔧 Tech Stack
 
 **Languages:**
+
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Hardware & Platforms:**
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![8051](https://img.shields.io/badge/-8051%20Microcontroller-FF6F00?style=flat)
 
 **Tools:**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -29,7 +32,7 @@ I'm a B.Tech student at MIET Meerut, passionate about building innovative soluti
 
 ## 🚀 Featured Projects
 
-### 🔋 Wireless EV Charging System
+### 🔋 [Wireless EV Charging System](https://github.com/Aryanpanwar10005/wireless_ev_charging)
 Developed a wireless charging prototype using Inductive Power Transfer (IPT) technology
 - ⚡ Achieved **85% power transfer efficiency**
 - 🤖 Automated detection via IR sensors
@@ -62,14 +65,6 @@ Autonomous navigation robot with ultrasonic sensors
 - Worked with RTD Pt100, pressure transmitters, and flowmeters
 - Calibration using HART communicators
 - Experience with Safety Instrumented Systems (SIS)
-
----
-
-## 📊 GitHub Stats
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryanpanwar10005&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanpanwar10005&layout=compact&theme=radical)
 
 ---
 
