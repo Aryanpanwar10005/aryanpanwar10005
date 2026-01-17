@@ -1,64 +1,59 @@
-# Hi there, I'm Aryan Panwar 👋
-### Electronics & Communication Engineering Student | Embedded Systems Enthusiast | Robotics Developer
-I'm a B.Tech student at MIET Meerut, passionate about building innovative solutions in embedded systems, robotics, and automation. Currently exploring the intersection of hardware and software to create practical engineering applications.
+# 👋 Hi, I'm Aryan Panwar
+
+## 🎙️ Creator & Maintainer of Mithivoices
+
+[![Mithivoices](https://img.shields.io/github/stars/mithivoices/ai-voice-platform?style=social&label=Star)](https://github.com/mithivoices/ai-voice-platform)
+[![Release](https://img.shields.io/github/v/release/mithivoices/ai-voice-platform?include_prereleases)](https://github.com/mithivoices/ai-voice-platform/releases)
+
+### **[Mithivoices AI Voice Platform](https://github.com/mithivoices/ai-voice-platform)** 🚀
+
+Open-source platform for **Text-to-Speech** and **Speech-to-Text** with **19 neural voices** across **8 languages**.
+
+**✨ Key Features:**
+- 🌏 **Multilingual**: Hindi, English, German, Spanish, Malayalam, Nepali
+- 🎙️ **Professional TTS**: Piper neural voices + Whisper STT
+- ⚛️ **Modern Stack**: React + TypeScript + FastAPI
+- 🎨 **Beautiful UI**: Dark mode with waveform visualization
+- 🏗️ **Production Ready**: CI/CD, tests, comprehensive docs
+
+🔗 **[Try it now →](https://github.com/mithivoices/ai-voice-platform)**
+
 ---
-## 🔧 Tech Stack
-**Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-**Hardware & Platforms:**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![8051](https://img.shields.io/badge/-8051%20Microcontroller-FF6F00?style=flat)
-**Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-**Industrial Systems:**
-- Process Instrumentation
-- Safety Instrumented Systems (SIS)
-- HART Communicators
+
+## 🛠️ Technologies I Work With
+
+```
+Languages:   Python -  TypeScript -  JavaScript
+Backend:     FastAPI -  REST APIs -  Async Python
+Frontend:    React -  Vite -  Tailwind CSS -  Zustand
+AI/ML:       Piper TTS -  Whisper -  ONNX Runtime
+DevOps:      GitHub Actions -  Docker -  CI/CD Automation
+Tools:       Git -  VS Code -  Linux
+```
+
 ---
-## 🚀 Featured Projects
-### 🔋 [Wireless EV Charging System](https://github.com/Aryanpanwar10005/wireless_ev_charging)
-Developed a wireless charging prototype using Inductive Power Transfer (IPT) technology
-- ⚡ Achieved **85% power transfer efficiency**
-- 🤖 Automated detection via IR sensors
-- 📊 Real-time monitoring with LCD display
-### 🦾 [4-DOF Robotic Arm](https://github.com/Aryanpanwar10005/robotic_arm_4dof)
-Designed and built a precision robotic arm with inverse kinematics
-- 🎯 **2mm positioning accuracy**
-- 📐 Implemented inverse kinematics algorithms
-- 🔧 Multi-servo coordinated control
-### 💡 [Smart Staircase Lighting](https://github.com/Aryanpanwar10005/smart_staircase_lighting_system)
-Motion-sensor based automated lighting system
-- 🌱 **45% energy consumption reduction**
-- 👁️ PIR sensor-based detection
-- ♻️ Sustainable automation solution
-### 🤖 Edge-Avoiding Robot
-Autonomous navigation robot with ultrasonic sensors
-- 📡 HC-SR04 sensor integration
-- 🎯 **40% improved detection accuracy**
-- 🧠 Real-time sensor fusion algorithms
+
+## 📊 GitHub Activity
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Aryanpanwar10005&show_icons=true&theme=radical&count_private=true)
+
 ---
-## 💼 Experience
-**Instrumentation Intern** @ Indian Potash Limited  
-*Jun 2025 - Aug 2025*
-- Worked with RTD Pt100, pressure transmitters, and flowmeters
-- Calibration using HART communicators
-- Experience with Safety Instrumented Systems (SIS)
+
+## 🎯 Current Focus
+
+- 🔨 Building Mithivoices v0.2.0 (Authentication + Real-time voice chat)
+- 🌟 Growing open-source community
+- 📚 Writing technical documentation
+- 🤝 Collaborating on AI/ML projects
+
 ---
-## 🌱 Currently Learning
-- Embedded systems design and programming (Embedded C, C++)
-- MATLAB for signal processing
-- LabVIEW for instrumentation
-- IoT and wireless communication protocols
-- Industrial automation systems (DCS, PLC, SCADA)
-- Circuit design and PCB development
+
+## 🤝 Let's Connect
+
+💼 Open to collaborations on **AI/Voice/ML** projects  
+🌟 Passionate about **open-source** and **voice technology**  
+📧 Reach out for contributions or questions!
+
 ---
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-panwar-b5322b269)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryanpanwar10005@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Aryanpanwar10005)
----
-## 🎯 Interests
-🔌 Embedded Systems | 🤖 Robotics | ⚙️ Automation | 📡 IoT | 🏭 Industrial Instrumentation
----
-*"Building tomorrow's solutions with today's technology"*
+
+⭐ **[Star Mithivoices](https://github.com/mithivoices/ai-voice-platform) to support open-source AI!**
