@@ -4,7 +4,7 @@
 
 I'm a 4th-year B.Tech student at MIET Meerut, exploring the fascinating world of **embedded systems**, **robotics**, and **software development**. Still learning the fundamentals and building my foundation through hands-on projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-panwar-b5322b269)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-panwar1)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Aryanpanwar10005)
 
 ---
