@@ -175,7 +175,7 @@ Meerut Institute of Engineering & Technology (M.I.E.T)
 
 ## Connect With Me
 
-- 💼 **LinkedIn:** [aryan-panwar-b5322b269](https://www.linkedin.com/in/aryan-panwar-b5322b269)
+- 💼 **LinkedIn:** [aryan-panwar-b5322b269](https://www.linkedin.com/in/aryan-panwar1)
 - 📧 **Email:** Available on request
 - 🌍 **Location:** Meerut, Uttar Pradesh
 
