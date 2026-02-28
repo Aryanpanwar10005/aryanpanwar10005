@@ -270,12 +270,5 @@ I'm open to opportunities in **AI Product Management**, **Embedded Systems**, an
 
 ---
 
-## 📊 GitHub Stats
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryanpanwar10005&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanpanwar10005&layout=compact&theme=radical)
-
----
 
 **🌟 Open to collaboration and opportunities! Feel free to reach out.**
