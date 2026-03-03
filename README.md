@@ -165,7 +165,7 @@ Privacy-first AI stylist app (v1.0.1 live):
 
 **Impact:** Demonstrates practical Agentic AI implementation for automated content workflows
 
-🔗 [GitHub Repository]([https://github.com/Aryanpanwar10005](https://github.com/Aryanpanwar10005/seo-geo-optimizer))
+🔗 [View Repository](https://github.com/aryanpanwar10005/seo-geo-optimizer)
 
 ---
 
