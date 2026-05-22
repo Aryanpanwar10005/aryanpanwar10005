@@ -7,6 +7,9 @@ Final-year ECE student at MIET Meerut. I don't wait to graduate to ship — I bu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--panwar1-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-panwar1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aryanpanwar.in-1E2329?style=flat&logo=google-chrome)](https://aryanpanwar.in)
 [![Email](https://img.shields.io/badge/Email-aryanpanwar10005@gmail.com-D14836?style=flat&logo=gmail)](mailto:aryanpanwar10005@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4793--4364-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0002-4793-4364)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Aryan--Panwar--7-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Aryan-Panwar-7)
+[![DEV](https://img.shields.io/badge/DEV-aryanpanwar1-0A0A0A?style=flat&logo=dev.to)](https://dev.to/aryanpanwar1)
 
 ---
 
