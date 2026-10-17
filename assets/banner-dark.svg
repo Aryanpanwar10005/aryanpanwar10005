@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Aryan Panwar, Business Analyst</title>
+  <desc id="d">Banner: Aryan Panwar, Business Analyst on Salesforce projects. From requirements to shipped AI products. A small diagram links discovery, user stories, test packs and shipped.</desc>
+  <rect width="1280" height="320" fill="#17110F"/>
+  <rect x="740" y="0" width="540" height="320" fill="#1F1918"/>
+  <rect x="72" y="76" width="56" height="3" fill="#D9B478"/>
+  <text x="72" y="118" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3.5" fill="#E07A8C">BUSINESS ANALYST · SALESFORCE</text>
+  <text x="68" y="196" font-family="Georgia, 'Times New Roman', Times, serif" font-size="78" fill="#F5EFE6">Aryan Panwar</text>
+  <text x="72" y="244" font-family="Georgia, 'Times New Roman', Times, serif" font-style="italic" font-size="27" fill="#CFC4B6">From requirements to shipped AI products.</text>
+  <line x1="790" y1="196" x2="1180" y2="196" stroke="#3A302D" stroke-width="2"/>
+  <line x1="790" y1="196" x2="1180" y2="196" stroke="#E07A8C" stroke-width="2" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <circle cx="790" cy="196" r="9" fill="#17110F" stroke="#E07A8C" stroke-width="2.5"/><text x="790" y="234" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#CFC4B6">Discovery</text><circle cx="920" cy="196" r="9" fill="#17110F" stroke="#E07A8C" stroke-width="2.5"/><text x="920" y="234" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#CFC4B6">User stories</text><circle cx="1050" cy="196" r="9" fill="#17110F" stroke="#E07A8C" stroke-width="2.5"/><text x="1050" y="234" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#CFC4B6">Test packs</text><circle cx="1180" cy="196" r="9" fill="#D9B478" stroke="#D9B478" stroke-width="2.5"/><text x="1180" y="234" text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#CFC4B6">Shipped</text>
+  <text x="790" y="118" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#D9B478">HOW I WORK</text>
+  <text x="1208" y="292" text-anchor="end" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#CFC4B6">aryanpanwar.in</text>
+</svg>
