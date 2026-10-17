@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Aryan Panwar. Business Analyst, Salesforce. From requirements to shipped AI products. How I work: discovery, user stories, test packs, shipped. aryanpanwar.in">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryanpanwar10005/aryanpanwar10005/main/assets/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/Aryanpanwar10005/aryanpanwar10005/main/assets/banner-light.svg" width="100%" alt="Aryan Panwar. Business Analyst, Salesforce. From requirements to shipped AI products. How I work: discovery, user stories, test packs, shipped. aryanpanwar.in">
 </picture>
 
 # Aryan Panwar
