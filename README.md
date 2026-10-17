@@ -1,86 +1,50 @@
-# Hi, I'm Aryan Panwar 👋
+# Aryan Panwar
 
-**Agentic AI Developer · Embedded Systems Engineer · Product Builder**
+I'm a Business Analyst Intern at Cloud Ingenious, a Salesforce consulting partner. Outside work I build small AI products and write about the product decisions behind them. I'm working toward AI product management.
 
-Final-year ECE student at MIET Meerut. I don't wait to graduate to ship — I build and deploy real products used by real people. My stack spans low-level embedded firmware to LLM orchestration and full-stack AI applications.
+ECE graduate, MIET Meerut (2026).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--panwar1-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-panwar1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aryanpanwar.in-1E2329?style=flat&logo=google-chrome)](https://aryanpanwar.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--panwar1-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-panwar1)
 [![Email](https://img.shields.io/badge/Email-aryanpanwar10005@gmail.com-D14836?style=flat&logo=gmail)](mailto:aryanpanwar10005@gmail.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4793--4364-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0002-4793-4364)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Aryan--Panwar--7-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Aryan-Panwar-7)
 [![DEV](https://img.shields.io/badge/DEV-aryanpanwar1-0A0A0A?style=flat&logo=dev.to)](https://dev.to/aryanpanwar1)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4793--4364-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0002-4793-4364)
 
----
+## What I've built
 
-## 🚀 What I've shipped
+| Project | What it is | More |
+|---|---|---|
+| [SEO & GEO Optimizer](https://github.com/Aryanpanwar10005/seo-geo-optimizer) | An open-source skill that gives AI coding agents (Claude Code, Cursor, Windsurf, GitHub Copilot) a 14-phase SEO and AI-search workflow. 500+ npm downloads. | [Case study](https://aryanpanwar.in/case-studies/seo-geo-optimizer) |
+| [FitWardrobe](https://fitwardrobe.me) | A privacy-first AI stylist for Android and web. The wardrobe stays on your device, and Gemini Vision looks at photos only when it needs to. | [Case study](https://aryanpanwar.in/case-studies/fitwardrobe) |
+| [Mithivoices](https://github.com/mithivoices/ai-voice-platform) | An open-source voice AI toolkit that lets small teams ship real-time voice agents without a research team. | [Case study](https://aryanpanwar.in/case-studies/mithivoices) |
 
-| Project | What it is | Stack | Status |
-|---|---|---|---|
-| [FitWardrobe](https://fitwardrobe.me) | Privacy-first AI stylist app — wardrobe stays on your device, Gemini Vision analyses temporarily | React · Capacitor · Gemini API · Supabase | ✅ Live (APK v1.0.1) |
-| [Mithivoices](https://github.com/mithivoices/ai-voice-platform) | Open-source TTS/STT platform · 19 neural voices · 8 languages · multi-LLM | Python · FastAPI · Piper TTS · Whisper STT | ✅ v0.2.0 Live |
-| [SEO & GEO Optimizer](https://github.com/aryanpanwar10005/seo-geo-optimizer) | npm package optimising for Google AND AI search (Perplexity, ChatGPT) · 6 AI IDE integrations | Node.js · Prompt Engineering · GitHub Actions | ✅ v1.2.0 on npm |
-| [JewelPetal](https://aryanpanwar10005.github.io/jewelpetal/) | Headless e-commerce storefront for a Made-in-India jewelry brand | React 18 · TypeScript · Vite · Tailwind · Shopify | 🔄 Shopify integration in progress |
-| [Wireless EV Charger](https://github.com/Aryanpanwar10005/wireless_ev_charging) | IPT-based wireless charging prototype · 85% efficiency · 1st place at MIET Expo · Published in JETIR (IF 7.95) | Arduino · Embedded C · Power Electronics | ✅ Published |
+Smaller things:
 
----
+- [Credex AI spend audit](https://credex-ai-spent-audit.vercel.app): a concept that reads SaaS invoices and flags wasted spend.
+- [Trade data analysis](https://github.com/Aryanpanwar10005/primetrade-ds-assignment): 211K Hyperliquid trades compared with the Bitcoin Fear & Greed Index.
+- [JewelPetal](https://aryanpanwar10005.github.io/jewelpetal/): a headless storefront for a jewellery brand, in progress.
+- Hardware from my ECE years: a [wireless EV charging prototype](https://github.com/Aryanpanwar10005/wireless_ev_charging), an [ESP32 robot](https://github.com/Aryanpanwar10005/ESP32-differential-drive-robot), a [4-DOF robotic arm](https://github.com/Aryanpanwar10005/robotic_arm_4dof) and [smart staircase lighting](https://github.com/Aryanpanwar10005/smart_staircase_lighting_system).
 
-## 🧠 My stack
+## Writing
 
-**AI / LLM**
-`LLM APIs` `Prompt Engineering` `Agentic AI` `Multi-Agent Workflows` `PyTorch` `TensorFlow` `Hugging Face` `NVIDIA NeMo` `Claude API` `OpenAI API` `Gemini API` `On-Device AI` `TTS/STT` `MLOps`
+I write about product decisions, AI trade-offs and PM frameworks at [aryanpanwar.in/writing](https://aryanpanwar.in/writing). A few to start with:
 
-**Frontend & Backend**
-`React 18` `TypeScript` `Vite` `Tailwind CSS` `FastAPI` `Supabase` `Firebase` `REST API` `Node.js`
+- [Agentic AI vs machine learning: a PM's guide to knowing the difference](https://aryanpanwar.in/writing/agentic-ai-vs-ml)
+- [What building FitWardrobe taught me about product discovery](https://aryanpanwar.in/writing/fitwardrobe-product-discovery)
+- [How to prioritize product features before writing a PRD](https://aryanpanwar.in/writing/prioritize-features-before-prd)
 
-**DevOps & Tooling**
-`GitHub Actions` `CI/CD` `Vercel` `Railway` `PostHog` `Sentry` `Docker`
+## Experience
 
-**Embedded & Hardware**
-`Arduino (ATmega328P)` `ARM` `ESP32` `8051` `Embedded C/C++` `PCB Design` `HART` `SIS/ESD`
+- **Business Analyst Intern, Cloud Ingenious** (Jun 2026 – present). Salesforce projects.
+- **Instrumentation Engineering Intern, Indian Potash Limited** (Jun – Aug 2025). Calibrated RTD, pressure and flow instruments with HART communicators, and worked alongside SIS/ESD safety systems.
 
-**Product**
-`Product Management` `PRD` `Agile` `A/B Testing` `KPIs` `GTM` `SEO` `GEO` `Figma`
+## Research
 
----
+Co-author of "Automated Dual-Spot Wireless Charging and Parking Management System for Electric Vehicles", JETIR, Vol. 13, Issue 4, April 2026. [Read the paper](https://www.jetir.org/view?paper=JETIR2604872).
 
-## 📊 GitHub Stats
+## Certifications
 
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryanpanwar10005&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanpanwar10005&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aryanpanwar10005&theme=default&hide_border=true)
-
----
-
-## 📄 Published Research
-
-**"Automated Dual-Spot Wireless Charging and Parking Management System for Electric Vehicles"**
-JETIR · Volume 13 Issue 4 · April 2026 · Impact Factor 7.95 · UGC Approved
-
-🔗 [Read the paper](http://www.jetir.org/view?paper=JETIR2604872)
-
----
-
-## 💼 Experience
-
-**Instrumentation Engineering Intern — Indian Potash Limited** *(Jun–Aug 2025)*
-Calibrated RTD Pt100 sensors, pressure transmitters, and electromagnetic flowmeters using HART communicators in live industrial environments. Hands-on with Safety Instrumented Systems (SIS) and Emergency Shutdown (ESD) protocols.
-
----
-
-## 🎓 Certifications
-
-- Enterprise Product Management Fundamentals — **Microsoft / Coursera** (Mar 2026)
-- Google Prompting Essentials Specialization — **Google / Coursera** (Mar 2026)
-- Google AI Essentials Specialization — **Google / Coursera** (Feb 2026)
-- Intro to Transformer-Based NLP — **NVIDIA Deep Learning Institute** (Feb 2026)
-
----
-
-## 🤝 Open to opportunities
-
-I'm actively looking for full-time roles in **Gen AI Engineering**, **AI Product Management**, or **Embedded Systems**. Remote or Meerut/Delhi NCR preferred.
-
-📧 aryanpanwar10005@gmail.com · 🌍 [aryanpanwar.in](https://aryanpanwar.in) · 📍 Meerut, UP, India
+- Enterprise Product Management Fundamentals, Microsoft / Coursera (Mar 2026)
+- Google Prompting Essentials Specialization, Google / Coursera (Mar 2026)
+- Google AI Essentials Specialization, Google / Coursera (Feb 2026)
+- Intro to Transformer-Based NLP, NVIDIA Deep Learning Institute (Feb 2026)
