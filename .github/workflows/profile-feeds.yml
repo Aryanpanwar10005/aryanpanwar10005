@@ -1,0 +1,40 @@
+name: Update profile feeds
+
+# Keeps "Recent writing" and "Latest release" in README.md current.
+# Reads the RSS feed of aryanpanwar.in and the seo-geo-optimizer releases feed.
+on:
+  schedule:
+    - cron: "17 3 * * *" # 08:47 IST, after posts go live at 08:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: profile-feeds
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Recent writing
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://aryanpanwar.in/feed.xml"
+          max_post_count: 4
+          template: "- [$title]($url) · $date $newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "Update recent writing"
+          retry_count: 2
+
+      - name: Latest seo-geo-optimizer release
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://github.com/Aryanpanwar10005/seo-geo-optimizer/releases.atom"
+          comment_tag_name: "RELEASE-LIST"
+          max_post_count: 1
+          template: "- [$title]($url) · $date $newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "Update latest release"
+          retry_count: 2

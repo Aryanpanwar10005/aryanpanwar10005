@@ -1,50 +1,85 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryanpanwar10005/aryanpanwar10005/main/assets/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/Aryanpanwar10005/aryanpanwar10005/main/assets/banner-light.svg" width="100%" alt="Aryan Panwar. Business Analyst, Salesforce. From requirements to shipped AI products. How I work: discovery, user stories, test packs, shipped. aryanpanwar.in">
+</picture>
+
 # Aryan Panwar
 
-I'm a Business Analyst Intern at Cloud Ingenious, a Salesforce consulting partner. Outside work I build small AI products and write about the product decisions behind them. I'm working toward AI product management.
+I'm a Business Analyst at Cloud Ingenious, a Salesforce consulting partner. On client projects I run discovery, write the requirements and user stories, and build the test packs that check what we ship.
 
-ECE graduate, MIET Meerut (2026).
+Outside work I build small products and write about the decisions behind them. I'm working toward AI product management. ECE graduate, MIET Meerut (2026).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aryanpanwar.in-1E2329?style=flat&logo=google-chrome)](https://aryanpanwar.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--panwar1-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-panwar1)
-[![Email](https://img.shields.io/badge/Email-aryanpanwar10005@gmail.com-D14836?style=flat&logo=gmail)](mailto:aryanpanwar10005@gmail.com)
-[![DEV](https://img.shields.io/badge/DEV-aryanpanwar1-0A0A0A?style=flat&logo=dev.to)](https://dev.to/aryanpanwar1)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4793--4364-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0002-4793-4364)
+[aryanpanwar.in](https://aryanpanwar.in) · [Writing](https://aryanpanwar.in/writing) · [LinkedIn](https://www.linkedin.com/in/aryan-panwar1) · [Email](mailto:aryanpanwar10005@gmail.com)
 
 ## What I've built
 
-| Project | What it is | More |
-|---|---|---|
-| [SEO & GEO Optimizer](https://github.com/Aryanpanwar10005/seo-geo-optimizer) | An open-source skill that gives AI coding agents (Claude Code, Cursor, Windsurf, GitHub Copilot) a 14-phase SEO and AI-search workflow. 500+ npm downloads. | [Case study](https://aryanpanwar.in/case-studies/seo-geo-optimizer) |
-| [FitWardrobe](https://fitwardrobe.me) | A privacy-first AI stylist for Android and web. The wardrobe stays on your device, and Gemini Vision looks at photos only when it needs to. | [Case study](https://aryanpanwar.in/case-studies/fitwardrobe) |
-| [Mithivoices](https://github.com/mithivoices/ai-voice-platform) | An open-source voice AI toolkit that lets small teams ship real-time voice agents without a research team. | [Case study](https://aryanpanwar.in/case-studies/mithivoices) |
+### SEO & GEO Optimizer
 
-Smaller things:
+AI coding assistants kept giving outdated SEO advice, like optimising for metrics Google retired years ago. This open-source agent skill gives them a checked workflow instead: 32 intake questions, a plan you approve, then 14 phases that cite an official source for every change.
 
-- [Credex AI spend audit](https://credex-ai-spent-audit.vercel.app): a concept that reads SaaS invoices and flags wasted spend.
-- [Trade data analysis](https://github.com/Aryanpanwar10005/primetrade-ds-assignment): 211K Hyperliquid trades compared with the Bitcoin Fear & Greed Index.
-- [JewelPetal](https://aryanpanwar10005.github.io/jewelpetal/): a headless storefront for a jewellery brand, in progress.
-- Hardware from my ECE years: a [wireless EV charging prototype](https://github.com/Aryanpanwar10005/wireless_ev_charging), an [ESP32 robot](https://github.com/Aryanpanwar10005/ESP32-differential-drive-robot), a [4-DOF robotic arm](https://github.com/Aryanpanwar10005/robotic_arm_4dof) and [smart staircase lighting](https://github.com/Aryanpanwar10005/smart_staircase_lighting_system).
+[![npm downloads](https://img.shields.io/npm/d18m/seo-geo-optimizer?label=npm%20downloads&color=5B1E2D)](https://www.npmjs.com/package/seo-geo-optimizer)
+[![npm version](https://img.shields.io/npm/v/seo-geo-optimizer?label=npm&color=5B1E2D)](https://www.npmjs.com/package/seo-geo-optimizer)
+[![GitHub stars](https://img.shields.io/github/stars/Aryanpanwar10005/seo-geo-optimizer?style=flat&label=GitHub%20stars&color=5B1E2D)](https://github.com/Aryanpanwar10005/seo-geo-optimizer)
 
-## Writing
+```bash
+npx skills add Aryanpanwar10005/seo-geo-optimizer
+```
 
-I write about product decisions, AI trade-offs and PM frameworks at [aryanpanwar.in/writing](https://aryanpanwar.in/writing). A few to start with:
+Latest release:
+<!-- RELEASE-LIST:START -->
+- [v2.1.0: Agent Skills install, safe installer, re-verified skill](https://github.com/Aryanpanwar10005/seo-geo-optimizer/releases/tag/v2.1.0) · Oct 17, 2026
+<!-- RELEASE-LIST:END -->
 
-- [Agentic AI vs machine learning: a PM's guide to knowing the difference](https://aryanpanwar.in/writing/agentic-ai-vs-ml)
-- [What building FitWardrobe taught me about product discovery](https://aryanpanwar.in/writing/fitwardrobe-product-discovery)
-- [How to prioritize product features before writing a PRD](https://aryanpanwar.in/writing/prioritize-features-before-prd)
+[Repository](https://github.com/Aryanpanwar10005/seo-geo-optimizer) · [Why I built it](https://aryanpanwar.in/case-studies/seo-geo-optimizer)
+
+### More products
+
+| Product | The problem it takes on |
+|---|---|
+| [FitWardrobe](https://aryanpanwar.in/case-studies/fitwardrobe) | People own plenty of clothes but still struggle to pick an outfit each day. An AI stylist for Android and web that keeps the wardrobe on your device. [fitwardrobe.me](https://fitwardrobe.me) |
+| [Mithivoices](https://aryanpanwar.in/case-studies/mithivoices) | Small teams want real-time voice agents without a research team. An open-source voice AI toolkit. [Code](https://github.com/mithivoices/ai-voice-platform) |
+| [Credex spend audit](https://aryanpanwar.in/case-studies/credex-spend-audit) | SaaS spend leaks through unused seats and overlapping tools. A concept that reads invoices and flags the waste in a report a CFO can forward. |
+
+## How I work
+
+- **Discovery before solutions.** Questions are grouped by sprint, so the team can see what blocks what.
+- **Every requirement gets a test.** Acceptance criteria turn into test cases before anything is demoed.
+- **Demos run on a checklist.** A preflight before every client demo, so nothing surprises us live.
+
+## Recent writing
+
+<!-- BLOG-POST-LIST:START -->
+- [Agentic AI vs Machine Learning: A PM's Guide to Knowing the Difference](https://aryanpanwar.in/writing/agentic-ai-vs-ml) · Aug 28, 2026
+- [Agentic AI Developer Guide: Bridging PM and Engineering](https://aryanpanwar.in/writing/agentic-ai-developer-guide) · Aug 25, 2026
+- [LLM Orchestration in 2026: What I Learned Building a Pipeline That Actually Works](https://aryanpanwar.in/writing/llm-orchestration-tools) · Aug 21, 2026
+- [Generative AI for Technical SEO: A Builder's Perspective](https://aryanpanwar.in/writing/generative-ai-technical-seo) · Aug 18, 2026
+<!-- BLOG-POST-LIST:END -->
+
+[All writing](https://aryanpanwar.in/writing) · [RSS](https://aryanpanwar.in/feed.xml)
 
 ## Experience
 
-- **Business Analyst Intern, Cloud Ingenious** (Jun 2026 – present). Salesforce projects.
-- **Instrumentation Engineering Intern, Indian Potash Limited** (Jun – Aug 2025). Calibrated RTD, pressure and flow instruments with HART communicators, and worked alongside SIS/ESD safety systems.
+- **Business Analyst, Cloud Ingenious** (Jun 2026 – present). Salesforce projects.
+- **Instrumentation Engineering Intern, Indian Potash Limited** (Jun – Aug 2025). Calibrated RTD, pressure and flow instruments with HART communicators.
 
 ## Research
 
-Co-author of "Automated Dual-Spot Wireless Charging and Parking Management System for Electric Vehicles", JETIR, Vol. 13, Issue 4, April 2026. [Read the paper](https://www.jetir.org/view?paper=JETIR2604872).
+Co-author of "Automated Dual-Spot Wireless Charging and Parking Management System for Electric Vehicles", JETIR, Vol. 13, Issue 4, April 2026. [Paper](https://www.jetir.org/view?paper=JETIR2604872) · [Prototype code](https://github.com/Aryanpanwar10005/wireless_ev_charging)
 
-## Certifications
+<details>
+<summary>Certifications</summary>
 
 - Enterprise Product Management Fundamentals, Microsoft / Coursera (Mar 2026)
 - Google Prompting Essentials Specialization, Google / Coursera (Mar 2026)
 - Google AI Essentials Specialization, Google / Coursera (Feb 2026)
 - Intro to Transformer-Based NLP, NVIDIA Deep Learning Institute (Feb 2026)
+
+</details>
+
+<details>
+<summary>Earlier hardware projects (ECE)</summary>
+
+- [4-DOF robotic arm](https://github.com/Aryanpanwar10005/robotic_arm_4dof) with inverse kinematics
+- [Smart staircase lighting](https://github.com/Aryanpanwar10005/smart_staircase_lighting_system) with IR motion sensors and Arduino
+
+</details>
