@@ -26,8 +26,8 @@ npx skills add Aryanpanwar10005/seo-geo-optimizer
 ```
 
 Latest release:
-<!-- RELEASE-LIST:START -->- [v2.1.0: Agent Skills install, safe installer, re-verified skill](https://github.com/Aryanpanwar10005/seo-geo-optimizer/releases/tag/v2.1.0) · Oct 17, 2026 
-<!-- RELEASE-LIST:END -->
+<!-- RELEASE-LIST:START -->
+- [v2.1.0: Agent Skills install, safe installer, re-verified skill](https://github.com/Aryanpanwar10005/seo-geo-optimizer/releases/tag/v2.1.0) · Oct 17, 2026<!-- RELEASE-LIST:END -->
 
 [Repository](https://github.com/Aryanpanwar10005/seo-geo-optimizer) · [Why I built it](https://aryanpanwar.in/case-studies/seo-geo-optimizer)
 
