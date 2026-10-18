@@ -9,7 +9,7 @@ I'm a Business Analyst at Cloud Ingenious, a Salesforce consulting partner. On c
 
 Outside work I build small products and write about the decisions behind them. I'm working toward AI product management. ECE graduate, MIET Meerut (2026).
 
-[aryanpanwar.in](https://aryanpanwar.in) · [Writing](https://aryanpanwar.in/writing) · [LinkedIn](https://www.linkedin.com/in/aryan-panwar1) · [Email](mailto:aryanpanwar10005@gmail.com)
+[aryanpanwar.in](https://aryanpanwar.in) · [Writing](https://aryanpanwar.in/writing) · [LinkedIn](https://www.linkedin.com/in/aryan-panwar1) · [Email](mailto:aryanpanwar12311@gmail.com)
 
 ## What I've built
 
