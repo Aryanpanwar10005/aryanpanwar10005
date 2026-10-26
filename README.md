@@ -48,10 +48,10 @@ Latest release:
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The Double-Click Test: The Requirement Every AI Agent That Pays Needs](https://aryanpanwar.in/writing/double-click-test-ai-agent-payments) · Oct 25, 2026
 - [Agentic AI vs Machine Learning: A PM&#39;s Guide to Knowing the Difference](https://aryanpanwar.in/writing/agentic-ai-vs-ml) · Aug 28, 2026
 - [Agentic AI Developer Guide: Bridging PM and Engineering](https://aryanpanwar.in/writing/agentic-ai-developer-guide) · Aug 25, 2026
-- [LLM Orchestration: What I Learned Building a Chain and an Agent](https://aryanpanwar.in/writing/llm-orchestration-tools) · Aug 21, 2026
-- [Generative AI for Technical SEO: A Builder&#39;s Perspective](https://aryanpanwar.in/writing/generative-ai-technical-seo) · Aug 18, 2026<!-- BLOG-POST-LIST:END -->
+- [LLM Orchestration: What I Learned Building a Chain and an Agent](https://aryanpanwar.in/writing/llm-orchestration-tools) · Aug 21, 2026<!-- BLOG-POST-LIST:END -->
 
 [All writing](https://aryanpanwar.in/writing) · [RSS](https://aryanpanwar.in/feed.xml)
 
